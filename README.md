@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shinseb5
+- 👋 Hi, I’m @shinseb5 alias Draken
 - 👀 I’m interested to the developpement
 - 🌱 I’m currently learning HTML5, CSS3, php7 and JS on linus jellyfish (ubuntu 22.04 LTS)
 - 💞️ I’m looking to collaborate on all people for learning language
